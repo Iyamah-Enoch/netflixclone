@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 .body {
     margin: 0;
     padding: 0;
@@ -293,3 +297,4 @@
 .end1 {
     margin-left: 149px;
 }
+
